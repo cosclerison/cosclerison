@@ -1,8 +1,12 @@
 ### Olá... Seja bem vindo ao meu GIT: Analista e desenvolvimento de sistemas 👋
 <div text-color="#FF0000">🏽‍💻 Conheça mais do meu perfil pessoal e profissional: </div><br />
 <div>
-  <p>
-    Minha primeira formação na área de tecnologia foi em 2001. Contudo foi passeando por vários setores. Como a tecnologia existem vários setores         profissionais para se atuar, e em meio a diversos trabalhos migrei várias vezes pelos setores ao qual obtive a oportunidade, contudo buscando e estudando para exercer tais funções ao qual me trouxe um amplo conhecimento, ou seja, obtendo várias profissões na área tecnológica.
+  <p align="left">
+    Minha primeira formação na área de tecnologia foi em 2001. Contudo foi passeando por vários setores.<br />
+    Como na tecnologia existem vários setores profissionais para se atuar, em meio a diversos trabalhos <br />
+    migrei várias vezes pelos setores ao qual obtive a oportunidade.<br />
+    contudo buscando e estudando para exercer tais funções ao qual me trouxe um amplo conhecimento,<br />
+    ou seja, obtendo várias profissões na área tecnológica.<br />
   </p>
 </div>
 
