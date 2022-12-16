@@ -1,4 +1,4 @@
-<div align="center"><h2> Olá... Seja bem vindo ao meu GIT:<br /> Analista e desenvolvimento de sistemas 👋</h2></div><br /><br />
+<div align="center"><h2> Olá... Seja bem vindo ao meu GIT...  Analista e desenvolvimento de sistemas 👋</h2></div><br /><br />
 <div text-color="#FF0000">🏽‍💻 Conheça mais do meu perfil pessoal e profissional: </div><br />
 <div>
   <p align="left">
