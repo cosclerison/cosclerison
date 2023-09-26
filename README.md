@@ -2,9 +2,8 @@
 <div text-color="#FF0000">🏽‍💻 Conheça mais do meu perfil pessoal e profissional: </div><br />
 <div>
   <p align="left">
-    Minha primeira formação na área de tecnologia foi em 2001. Contudo foi passeando por vários setores.<br />
-    Como na tecnologia existem vários setores profissionais para se atuar, em meio a diversos trabalhos <br />
-    migrei várias vezes pelos setores ao qual obtive a oportunidade.<br />
+    Minha primeira formação na área de tecnologia foi em 2001. Contudo passeando por vários setores da área.<br />
+    Como na tecnologia existem vários setores profissionais para se atuar, em meio a diversos trabalhos migrei várias vezes pelos setores ao qual obtive a oportunidade.
     contudo buscando e estudando para exercer tais funções ao qual me trouxe um amplo conhecimento,<br />
     ou seja, obtendo várias profissões na área tecnológica.<br />
   </p>
@@ -30,7 +29,7 @@
 </div><br><br>
   
   <div align="center"> 
-  <a href="https://www.youtube.com/@cosclerison" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&borderRadius=20px"></a>&#160;&#160;&#160;&#160;  
+  <!-- <a href="https://www.youtube.com/@cosclerison" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&borderRadius=20px"></a>&#160;&#160;&#160;&#160; -->  
   <a href="https://www.instagram.com/cosclerison/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>&#160;&#160;&#160;&#160;  
   <a href="https://www.linkedin.com/in/cosclerison/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
