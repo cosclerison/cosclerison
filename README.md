@@ -2,10 +2,17 @@
 <div text-color="#FF0000">🏽‍💻 Conheça mais do meu perfil pessoal e profissional: </div><br />
 <div>
   <p align="left">
-    Minha primeira formação na área de tecnologia foi em 2001. Contudo passeando por vários setores da área.<br />
-    Como na tecnologia existem vários setores profissionais para se atuar, em meio a diversos trabalhos migrei várias vezes pelos setores ao qual obtive a oportunidade.
-    contudo buscando e estudando para exercer tais funções ao qual me trouxe um amplo conhecimento,<br />
-    ou seja, obtendo várias profissões na área tecnológica.<br />
+    Sou um desenvolvedor pleno com experiência em criação de sistemas e aplicações web. 
+Especializado em tecnologias de front-end como HTML5, CSS3, JavaScript, jQuery, Bootstrap e 
+Material Design, além de expertise em back-end com PHP, MySQL, Docker e integração com 
+bancos de dados como MySQL, SQL Server e PostgreSQL.<br>
+Possuo domínio de frameworks e bibliotecas como Angular (v10–v18), Phalcon, Twig e Laravel, 
+além de ferramentas de versionamento e colaboração como GitLab, GitHub e gerenciadores como
+Trello e Notion. Minha atuação abrange todo o ciclo de desenvolvimento, utilizando ambientes 
+Linux, UNIX, Windows e Mac OS.<br>
+Busco aplicar meu conhecimento para desenvolver soluções robustas e inovadoras, otimizar 
+processos e contribuir com resultados de alta qualidade, sempre focando na evolução constante 
+dentro da área de desenvolvimento.
   </p>
 </div>
 
